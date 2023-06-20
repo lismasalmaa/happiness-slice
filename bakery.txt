@@ -1,0 +1,10 @@
+happiness slice 
+
+menu :
+- slice cake
+- ice cream (cone & cup)
+- birthday cake
+- drink
+- donuts
+- bread
+- waffle
